@@ -1,0 +1,11 @@
+streamlit
+pandas
+datetime
+math
+yfinance
+FundamentalAnalysis
+PIL
+plotly.express
+plotly.graph_objects
+numpy
+pandas
